@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning in programming.
 - 🌱 I’m currently learning html, css and java script.
 - 💞️ I’m looking to collaborate on my codes.
-- 📫 you can reach me with (sainiujjaval@gmail.com) by using it.
+- 📫 you can reach me with (sainiujjaval@gmail.com) this e-mail address.
 - ⚡ Fun fact: programming is an art,and i am an artist.
 
 <!---
